@@ -1,3 +1,5 @@
+HSG SPEED TYPING TEST
+
 Welcome to our programming project about speed typing. You have all the necessary information in our Speed typing documentation pdf.
 
 This program worked fine with PyCharm 2021.2.3 (Community Edition) on December 14, 2021. Running the code with other versions of Python or programs may cause errors.
